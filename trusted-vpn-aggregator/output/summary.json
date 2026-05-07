@@ -1,0 +1,45 @@
+{
+  "run_timestamp_utc": "2026-05-07T13:33:10.496358+00:00",
+  "total_fetched_sources": 15,
+  "succeeded_sources": 8,
+  "failed_sources": 7,
+  "failed_source_names": [
+    "MatinGhanbari v2ray-configs super-sub",
+    "MatinGhanbari vless",
+    "MatinGhanbari vmess",
+    "MatinGhanbari trojan",
+    "MatinGhanbari ss",
+    "MatinGhanbari hysteria2",
+    "Surfboardv2ray TGParse mixed"
+  ],
+  "total_unique_configs": 3325,
+  "counts_by_protocol": {
+    "vless": 2634,
+    "vmess": 126,
+    "trojan": 169,
+    "ss": 396
+  },
+  "output_file_counts": {
+    "vless.txt": 1000,
+    "vmess.txt": 126,
+    "trojan.txt": 169,
+    "ss.txt": 396,
+    "hysteria2.txt": 0,
+    "hy2.txt": 0,
+    "tuic.txt": 0,
+    "all_raw_configs.txt": 3325,
+    "configs.txt": 3325
+  },
+  "max_total_cap": 5000,
+  "max_per_protocol_cap": 1000,
+  "warnings": [
+    "Source failed or returned no data: MatinGhanbari v2ray-configs super-sub",
+    "Source failed or returned no data: MatinGhanbari vless",
+    "Source failed or returned no data: MatinGhanbari vmess",
+    "Source failed or returned no data: MatinGhanbari trojan",
+    "Source failed or returned no data: MatinGhanbari ss",
+    "Source failed or returned no data: MatinGhanbari hysteria2",
+    "Source failed or returned no data: Surfboardv2ray TGParse mixed",
+    "vless: capped at 1000 (total available: 2634)"
+  ]
+}

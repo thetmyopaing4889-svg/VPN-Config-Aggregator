@@ -1,0 +1,94 @@
+{
+  "sources": [
+    {
+      "name": "MatinGhanbari v2ray-configs super-sub",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/xray/all_configs.txt",
+      "enabled": false,
+      "notes": "Disabled — returns 404. Check the repo for the current path and update the URL."
+    },
+    {
+      "name": "MatinGhanbari vless",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/xray/vless.txt",
+      "enabled": false,
+      "notes": "Disabled — returns 404. Check the repo for the current path and update the URL."
+    },
+    {
+      "name": "MatinGhanbari vmess",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/xray/vmess.txt",
+      "enabled": false,
+      "notes": "Disabled — returns 404. Check the repo for the current path and update the URL."
+    },
+    {
+      "name": "MatinGhanbari trojan",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/xray/trojan.txt",
+      "enabled": false,
+      "notes": "Disabled — returns 404. Check the repo for the current path and update the URL."
+    },
+    {
+      "name": "MatinGhanbari ss",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/xray/ss.txt",
+      "enabled": false,
+      "notes": "Disabled — returns 404. Check the repo for the current path and update the URL."
+    },
+    {
+      "name": "MatinGhanbari hysteria2",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/xray/hysteria2.txt",
+      "enabled": false,
+      "notes": "Disabled — returns 404. Check the repo for the current path and update the URL."
+    },
+    {
+      "name": "barry-far V2ray-config vless",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt",
+      "enabled": true,
+      "notes": "Working — VLESS configs from barry-far"
+    },
+    {
+      "name": "barry-far V2ray-config vmess",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt",
+      "enabled": true,
+      "notes": "Working — VMESS configs from barry-far"
+    },
+    {
+      "name": "barry-far V2ray-config trojan",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt",
+      "enabled": true,
+      "notes": "Working — Trojan configs from barry-far"
+    },
+    {
+      "name": "barry-far V2ray-config ss",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt",
+      "enabled": true,
+      "notes": "Working — Shadowsocks configs from barry-far"
+    },
+    {
+      "name": "Surfboardv2ray TGParse mixed",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/mixed",
+      "enabled": false,
+      "notes": "Disabled — returns 404. Check the repo for the current file path."
+    },
+    {
+      "name": "Surfboardv2ray TGParse vless",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/vless",
+      "enabled": true,
+      "notes": "Working — VLESS configs from Surfboardv2ray TGParse"
+    },
+    {
+      "name": "Surfboardv2ray TGParse vmess",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/vmess",
+      "enabled": true,
+      "notes": "Working — VMESS configs from Surfboardv2ray TGParse"
+    },
+    {
+      "name": "Surfboardv2ray TGParse trojan",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/trojan",
+      "enabled": true,
+      "notes": "Working — Trojan configs from Surfboardv2ray TGParse"
+    },
+    {
+      "name": "Surfboardv2ray TGParse ss",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/ss",
+      "enabled": true,
+      "notes": "Working — Shadowsocks configs from Surfboardv2ray TGParse"
+    }
+  ]
+}

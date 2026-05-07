@@ -1,0 +1,5 @@
+# Trusted VPN Aggregator — https://github.com/your-username/trusted-vpn-aggregator
+# Auto-generated. Import this URL into Karing / Hiddify / v2rayNG / NekoBox.
+# WARNING: Free public VPN configs are NOT safe for banking, crypto, or sensitive accounts.
+#          Test working configs inside your VPN client — do NOT run TCP/ping tests here.
+
